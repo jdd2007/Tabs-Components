@@ -1,5 +1,7 @@
 # TABS-COMPONENTS
 
+[test edit]
+
 Topics:
 
 * Constructors with ES6 class syntax
